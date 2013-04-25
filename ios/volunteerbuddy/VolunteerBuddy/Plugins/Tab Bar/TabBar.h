@@ -25,7 +25,7 @@
 
     CGFloat navBarHeight;
     CGFloat tabBarHeight;
-
+    
     bool tabBarAtBottom;
 }
 
